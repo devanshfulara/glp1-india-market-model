@@ -1,12 +1,16 @@
 # India GLP-1 Obesity Market Sizing Model
 
+> **Illustrative model, not a forecast.** All outputs are scenario estimates produced from public data and stated assumptions. They are sample results that show how the model works, not verified market figures. Several key inputs (diagnosis, eligibility and uptake rates) have no published India data and are assumptions; see [Assumptions](#assumptions) and [Limitations](#limitations).
+
 **Question:** How large could India's GLP-1 obesity drug market be by 2030, and what drives that number?
 
-**Answer:** In the Base case, the market roughly doubles from ₹1,020 crore in 2025 to **₹2,070 crore (US$218 million) in 2030**, with about 890,000 patients on treatment. Across scenarios the 2030 market ranges from ₹1,035 crore to ₹2,760 crore.
+**Illustrative answer:** Under the Base-case assumptions, the model estimates the market roughly doubling from ₹1,020 crore in 2025 to **₹2,070 crore (US$218 million) in 2030**, with about 890,000 patients on treatment. Across scenarios the 2030 estimate ranges from ₹1,035 crore to ₹2,760 crore.
 
 ![Market size by scenario](images/market_by_scenario.png)
 
-## Key findings
+## Key insights (illustrative)
+
+These insights describe what the model's Base case shows under its assumptions. They are not verified findings.
 
 1. **The market doubles, but patient numbers grow more than eightfold.** Base-case value grows from ₹1,020 crore to ₹2,070 crore (15% a year), while treated patients rise from about 104,000 to 890,000. The gap is price: generic semaglutide pushes the average monthly price down 76%, from ₹14,000 to about ₹3,300.
 2. **Growth stalls by 2029 as falling prices offset volume.** The Base-case market peaks at ₹2,144 crore in 2029 and dips to ₹2,070 crore in 2030. After generic entry, revenue growth depends on adding patients faster than prices fall, which favours low-cost, high-volume players.
@@ -50,6 +54,7 @@ Three scenarios (Low, Base, High) vary **uptake only**. All other inputs, includ
 
 ## Limitations
 
+- **Results are sample estimates, not verified findings.** They depend on the assumptions above and should not be used as a market forecast.
 - **Diagnosis and eligibility are assumptions.** No published India data was found, and both directly scale the result.
 - **Obesity figures are age-standardised.** NCD-RisC adjusts prevalence to a standard world population, so India's actual (crude) prevalence may differ slightly.
 - **Women and men are averaged equally.** This assumes roughly equal adult numbers by sex.
